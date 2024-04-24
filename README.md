@@ -5,5 +5,5 @@
  - Run the program using ```server.py [port-number]```, where port number is the port you would like the game to run on
  - Navigate to ```http://localhost:[port-number]/info.html``` and follow the on-screen instructions to play
 
-<video controls src="Pool Example.mp4" title="Pool Game Example"></video>
- ![alt text](image.png)
+<video controls src="lib/PoolExample.mp4" title="Pool Game Example"></video>
+ ![alt text](lib/image.png)
